@@ -1,0 +1,21 @@
+{
+    "informacion": {
+        "nombre_negocio": "prueva 100",
+        "titulo_principal": "",
+        "descripcion": "",
+        "whatsapp": "",
+        "catalogo": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "pagina_web": "",
+        "google_maps": "",
+        "correo": "",
+        "logo": "IMG-20260611-WA0001.jpg"
+    },
+    "listas_precios": [],
+    "galeria_trabajos": [],
+    "carrusel_principal": [],
+    "botones": [],
+    "plantilla": "Moderna"
+}
